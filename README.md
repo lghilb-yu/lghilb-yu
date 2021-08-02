@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning C++
+### 🌱 I’m currently learning C++ and Python
 ### My name is mean "Like GitHub-I Like Bash-yu"
 
 <!--
