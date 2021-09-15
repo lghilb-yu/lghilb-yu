@@ -1,6 +1,5 @@
-### Hi there 👋
-### 🌱 I’m currently learning C++ and Python
-### My name is mean "Like GitHub-I Like Bash-yu"
+你好。
+我的网站开在Github Pages上因为不用审核，还有项目的网站都会在Github上，但是代码和Release都在Gitee上。
 
 <!--
 **lghilb-yu/lghilb-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
